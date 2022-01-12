@@ -1,2 +1,2 @@
 # SQLProject
-Undergraduate Class Project
+Undergraduate Project
